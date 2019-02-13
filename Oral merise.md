@@ -6,10 +6,13 @@ Merise créer par René Colletti, Arnold Rochfeld et Hubert Tardieu dans les ann
 Merise est devenu un projet opérationnel au début des années 1980 à la demande du ministère de l'industrie, et a surtout été utilisé en France dans les administrations publiques ou privées.
 
 ## MCD
+### modèle conceptuel des données
 
 ## MLD
+### modèle logique des données
 
 ## MOT
+### Modèle organisationnel des traitements
 
 ## MPD (si vous voulez)
 
